@@ -5,7 +5,7 @@ This project involves analyzing and visualizing data related to restaurant attri
 
 ## Features
 **Data Cleaning**: Handling missing values and standardizing data formats.
-**Visualization**:
+\n **Visualization**:
 Distribution of ratings.
 Most popular cuisines.
 Top-rated restaurants.
