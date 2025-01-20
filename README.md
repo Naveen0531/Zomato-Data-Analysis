@@ -7,16 +7,16 @@ This project involves analyzing and visualizing data related to restaurant attri
 **Data Cleaning**: Handling missing values and standardizing data formats.
 
 **Visualization**:
-Distribution of ratings.
-Most popular cuisines.
-Top-rated restaurants.
-Ratio of restaurants offering online ordering or table booking.
-Approximate cost analysis for two people.
+- point Distribution of ratings.
+- point Most popular cuisines.
+- point Top-rated restaurants.
+- point Ratio of restaurants offering online ordering or table booking.
+- point Approximate cost analysis for two people.
 
 **Statistical Insights:**
-Average ratings per restaurant.
-Correlation between price and ratings.
-Impact of online ordering on votes and affordability.
+- point Average ratings per restaurant.
+- point Correlation between price and ratings.
+- point Impact of online ordering on votes and affordability.
 
 ## Getting Started
 **Prerequisites**
