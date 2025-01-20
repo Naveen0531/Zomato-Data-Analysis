@@ -20,14 +20,14 @@ This project involves analyzing and visualizing data related to restaurant attri
 
 ## Getting Started
 **Prerequisites**
-Python 3.x
-Jupyter Notebook
-Required Python Libraries:
-Pandas
-Numpy
-Matplotlib
-Seaborn
-Plotly
+- point Python 3.x
+- point Jupyter Notebook
+- point Required Python Libraries:
+- point Pandas
+- point Numpy
+- point Matplotlib
+- point Seaborn
+- point Plotly
 
 ## Files in the Repository
 APSDC Project Work.ipynb: Main notebook containing the project code.
